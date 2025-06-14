@@ -3,7 +3,7 @@
 # 🚀 Nathan Mora
 ### iOS Developer • Swift Enthusiast • Innovation Driver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=600&lines=Building+the+future+with+Swift+%F0%9F%93%B1;UIKit+%26+SwiftUI+Expert;Clean+Architecture+Advocate;Apple+Ecosystem+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=600&lines=Building+the+future+with+iOS+%F0%9F%8D%8E;UIKit+%26+SwiftUI;Foundation+Models;Apple+Ecosystem+Explorer" alt="Typing SVG" />
 
 ---
 
@@ -14,9 +14,9 @@
 ```swift
 struct Developer {
     let name = "Nathan Mora"
-    let focus = ["iOS Development", "Swift", "UI/UX"]
+    let focus = ["iOS Development", "Swift", "Swift UI"]
     let passion = "Creating seamless user experiences"
-    let currentlyExploring = ["ARKit", "CoreML", "SwiftUI Animations"]
+    let currentlyExploring = ["ARKit", "CoreML", "MacOS", "FoundationModels", "IA", "Swift embedded"]
 }
 ```
 
@@ -50,7 +50,6 @@ struct Developer {
 <summary><b>⚙️ Development Tools</b></summary>
 
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
@@ -68,28 +67,6 @@ struct Developer {
 
 ---
 
-## 🌟 **Featured Project**
-
-<div align="center">
-  <h3>📱 Radix App</h3>
-  <p><em>Cross-platform number base converter supporting Binary, Decimal, Octal & Hexadecimal</em></p>
-  
-  ![SwiftUI](https://img.shields.io/badge/Built_with-SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-17.5-000000?style=flat-square&logo=ios&logoColor=white)
-  ![macOS](https://img.shields.io/badge/macOS-Ventura-000000?style=flat-square&logo=macos&logoColor=white)
-</div>
-
----
-
-## 📊 **Development Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanmora&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmora&layout=compact&langs_count=7&theme=gradient"/>
-</div>
-
----
-
 ## 🎨 **Other Languages & Skills**
 
 <div align="center">
@@ -104,7 +81,7 @@ struct Developer {
 
 ## 🚀 **What Drives Me**
 
-- 🎯 **Clean Architecture**: MVVM, SOLID principles, and maintainable code
+- 🎯 **Architecture and Patterns**: MVVM, MVC, VIPER, Coordinator pattern, and maintainable code
 - 🔬 **Innovation**: Always exploring the latest Apple technologies
 - 📈 **Growth**: Continuous learning and skill development
 - 🤝 **Collaboration**: Building great products with amazing teams
