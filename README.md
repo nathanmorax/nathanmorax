@@ -7,7 +7,7 @@
 
 <br>
 
-I build iOS and macOS apps with a focus on clean architecture, performance and the small details people actually feel. By day I work on a large UIKit + SwiftUI app in production; on my own time I ship small tools under **Satori Tech 341**.
+I build iOS and macOS apps with a focus on clean architecture, performance and the small details people actually feel. By day I work on a large UIKit + SwiftUI app in production; on my own time I ship small tools under**.
 
 ### Now
 
