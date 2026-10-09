@@ -7,17 +7,12 @@
 
 <br>
 
-I build iOS and macOS apps with a focus on clean architecture, performance and the small details people actually feel. By day I work on a large UIKit + SwiftUI app in production; on my own time I ship small tools under.
+I build iOS and macOS apps with a focus on clean architecture, performance and the small details people actually feel. By day I work on a large UIKit + SwiftUI app in production; on my own time I ship small apps of my own.
 
 ### Now
 
-Exploring Foundation Models, Core ML, ARKit and Embedded Swift.
-
-### Selected work
-
-- **Radix** — number base converter for iOS, on the App Store
-- **PixelJSON** — macOS menu bar JSON visualizer with a zoomable node graph
-- **ColorPop** — color picker extension for Safari on macOS
+**Building** a new module for university students in Radix, my number base converter on the App Store.<br>
+**Exploring** Foundation Models, Core ML, ARKit and Embedded Swift.
 
 ### Stack
 
