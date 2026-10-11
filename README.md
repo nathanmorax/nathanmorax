@@ -18,7 +18,7 @@ I build iOS and macOS apps with a focus on clean architecture, performance and t
 
 `Swift` `SwiftUI` `UIKit` `Combine` `Core Data` `AVFoundation` `MapKit` `ARKit` `RealityKit` `Core ML`
 
-`Xcode` `SPM` `CocoaPods` `XCTest` `GitHub Actions` `TestFlight` `Firebase`
+`Xcode` `SPM` `CocoaPods` `XCTest` `GitHub Actions` `TestFlight` `Firebase` `Claude Code`
 
 Also comfortable in Python, Java and C.
 
