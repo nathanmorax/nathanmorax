@@ -20,7 +20,7 @@ I build iOS and macOS apps with a focus on clean architecture, performance and t
 
 `Xcode` `SPM` `CocoaPods` `XCTest` `GitHub Actions` `TestFlight` `Firebase` `Claude Code`
 
-Also comfortable in Python, Java and C.
+Also comfortable in Java and C.
 
 ### Approach
 
